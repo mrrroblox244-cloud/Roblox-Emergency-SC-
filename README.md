@@ -161,7 +161,7 @@ end)
 ---
 ---
 
-#Script
+# Script
 
 ## 1. **Kill Block (Dødskloss / Смертельний блок / แผ่นอันตราย)**
 
